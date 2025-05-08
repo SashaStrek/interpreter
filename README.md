@@ -1,7 +1,7 @@
 # interpreter
 An attempt to implement a local interpreter.
 
-That version uses Mac OS's 
+That version uses a Mac OS–specific feature: subprocess.run(["say", ...]).
 
 ## How to run
 python3 -m venv venv
